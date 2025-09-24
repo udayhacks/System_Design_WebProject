@@ -1,0 +1,10 @@
+asgiref>=3.8.1 // asynchronose tasks
+Django>=5.0 // Django;
+django-cors-headers>=4.4.0 // handle for react;
+djangorestframework>=3.15.2 // restapi;
+djangorestframework-simplejwt>=5.4.0 //jwt tokens;
+PyJWT>=2.9.0  
+pytz>=2025.1 // python time handling
+sqlparse>=0.5.1 // sql 
+psycopg2-binary>=2.9.9 //PostgreSQL database adapte
+python-dotenv>=1.0.1 ///Loads environment variables from a .env
